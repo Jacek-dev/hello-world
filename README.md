@@ -1,2 +1,2 @@
-# psychic-meme
+# hello-world
 My first repository;)
